@@ -1,2 +1,2 @@
 # pubg
-Any
+For play pubg tournament
